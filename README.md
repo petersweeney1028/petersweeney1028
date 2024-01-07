@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @petersweeney1028
-- 👀 I’m interested in the creator economy, web3, investing
-- 🌱 I’m currently learning Javascript, react and others!
+- 👀 I’m interested in building things
+- 🌱 I’m currently learning to code using chatGPT as an aid!
 - 💞️ I’m looking to collaborate on any and everything
-- 📫 reach me at peter@alaoinvest.com
+- 📫 reach me at petersweeney1028@gmail.com
 
 <!---
 petersweeney1028/petersweeney1028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
